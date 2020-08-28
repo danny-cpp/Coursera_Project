@@ -8,7 +8,7 @@ future accidents' severity. This will help drivers make their decision to reduce
 ### 2. Data
 Data source is from Kaggle: https://www.kaggle.com/tbsteal/canadian-car-accidents-19942014?select=drivingLegend.pdf (Open database License). 
 
-This dataset describes Canadian Car Accidents 1994-2014 with details. Accidents severity ranging from 1-10, accompanied by 21 attributes that accurately describes the particular cases. Data and meta data are in the repo.
+This dataset describes Canadian Car Accidents 1994-2014 with details. Target information is accidents is either fatal or non-fatal, accompanied by 21 attributes that closely describes the particular cases. Data and meta data are in the repository.
 
 ### 3. Result
 
